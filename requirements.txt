@@ -1,0 +1,4 @@
+fastapi[all]==0.73.0
+networkx==2.6.3
+osmnx==1.1.2
+scikit-learn==1.0.2

@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+.env
+cache/
+src/graphs/files/.*
+.DS_Store
+*.graphml
